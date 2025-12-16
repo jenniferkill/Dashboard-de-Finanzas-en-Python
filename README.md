@@ -185,6 +185,6 @@ Solución: reintentar más tarde y asegurarse de tener instalados:
 ---
 
 ## 10) Autor
-**Juan Esteban Ávila Reina**  
+**Jennifer Coral Reina**  
 Proyecto académico / portfolio (Python + Ciencia de Datos + Finanzas)
 
